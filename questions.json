@@ -1,0 +1,455 @@
+{
+    "heading": "Assessment",
+    "topics": [
+      {
+        "heading": "KNOWING NUMBERS",
+        "questions": [
+  {
+    "questionNo": 1,
+    "question": "Neha says that in the number 6.203, the digit 2 is in the ones place. Is she correct?",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No, it’s in the tenths place" },
+      { "text": "No, it's in the hundredths place" },
+      { "text": "No, it's in the thousandths place" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "Anaya wrote the number 3,406 in expanded form as 3,000 + 40 + 6. Identify the error.",
+    "options": [
+      { "text": "She added 40 instead of 400" },
+      { "text": "She added one extra zero thousands place" },
+      { "text": "It’s correct" },
+      { "text": "She added 40 instead of 60" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": "A farmer sold 7.08 litres of milk on Monday and 7.8 litres on Tuesday. On which day did he sell more?",
+    "options": [
+      { "text": "Monday" },
+      { "text": "Tuesday" },
+      { "text": "Same" },
+      { "text": "Cannot be determined" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "Your friend arranged numbers as: 5.2, 5.02, 5.12<br> He says they are in ascending order. Is he right?",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No, correct order is 5.02, 5.12, 5.2" },
+      { "text": "No, correct order is 5.02, 5.2, 5.12" },
+      { "text": "No, correct order is 5.2, 5.12, 5.02" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "Ritika read that 'Nine and seventy-two thousandths' is a decimal number. Which of the following correctly shows it?",
+    "options": [
+      { "text": "97.2" },
+      { "text": "9.72" },
+      { "text": "9.072" },
+      { "text": "9.0072" }
+    ],
+    "answer": 2
+  }
+]
+
+        
+      },
+      {
+        "heading": "ADDITION AND SUBTRACTION OF WHOLE NUMBERS",
+        "questions": [
+  {
+    "questionNo": 6,
+    "question": "Aman solved: 500 - 285 by first doing 500 - 300 = 200, then adding back 15. Is his method correct?",
+    "options": [
+      { "text": "Yes, it’s compensation" },
+      { "text": "No, he should subtract 15, not add" },
+      { "text": "Yes, but he should subtract 20" },
+      { "text": "No, because it's a multiplication problem" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": "Tara says:<br> \"To find 6,000 – 2,375, I’ll break it as (6,000 – 2,000), (0 – 300), (0 – 70), and (0 – 5)\".<br> What mistake will she face?",
+    "options": [
+      { "text": "No mistake" },
+      { "text": "She should use multiplication" },
+      { "text": "Can't subtract from zero without borrowing" },
+      { "text": "She should add instead" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 8,
+    "question": "Rhea breaks 546 into parts as 500 + 40 + 6<br> She wants to add it to 378. What is the correct next step?",
+    "options": [
+      { "text": "Add 500 + 300, then 40 + 70, then 6 + 8" },
+      { "text": "Add 546 + 378 directly" },
+      { "text": "Add 500 + 370, then 40 + 80, then 6 + 8" },
+      { "text": "Add 500 + 300, then 40 + 80, then 6 + 70" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": "What number should go in the blank? <br> 615 - ___ = 240 - 75",
+    "options": [
+      { "text": "375" },
+      { "text": "300" },
+      { "text": "285" },
+      { "text": "450" }
+    ],
+    "answer": 3
+  }
+]
+
+                      
+      },
+      {
+        "heading": "MULTIPLICATION",
+        "questions": [
+  {
+    "questionNo": 10,
+    "question": "Aman found 24 × 6 by splitting 24 into 20 + 4<br> What is his next step?",
+    "options": [
+      { "text": "(20 × 6) + (4 × 6)" },
+      { "text": "(20 + 6) × 4" },
+      { "text": "24 + 6" },
+      { "text": "24 × 4 + 6" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": "If (5 × 3) × 2 = 5 × (3 × 2),<br> which property is this?",
+    "options": [
+      { "text": "Commutative" },
+      { "text": "Distributive" },
+      { "text": "Associative" },
+      { "text": "Identity" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 12,
+    "question": "Which of the following pairs of numbers will give a product ending in zero?",
+    "options": [
+      { "text": "20, 30" },
+      { "text": "15, 2" },
+      { "text": "10, 7" },
+      { "text": "All of these" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 13,
+    "question": "Which number will make the equation true:<br> 3 × __ = 9 + 6",
+    "options": [
+      { "text": "3" },
+      { "text": "5" },
+      { "text": "4" },
+      { "text": "6" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 14,
+    "question": "Multiply the place value of digit 5 in 508 by 6.",
+    "options": [
+      { "text": "30" },
+      { "text": "300" },
+      { "text": "3000" },
+      { "text": "30000" }
+    ],
+    "answer": 2
+  }
+]
+
+        
+      },
+      {
+        "heading": "ESTIMATION",
+        "questions": [
+  {
+    "questionNo": 15,
+    "question": "A number rounded to the nearest hundred is 3,500. Which of the following could it be?",
+    "options": [
+      { "text": "3,460" },
+      { "text": "3,549" },
+      { "text": "3,450" },
+      { "text": "All of the above" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 16,
+    "question": "Estimate the product of 299 × 5 and check if the result is divisible by 7.",
+    "options": [
+      { "text": "Yes" },
+      { "text": "No" },
+      { "text": "Cannot be determined" },
+      { "text": "None of these" }
+    ],
+    "answer": 1
+  }
+]
+
+         
+      },
+      {
+        "heading": "DIVISION",
+        "questions": [
+  {
+    "questionNo": 17,
+    "question": "Dev solved: 480 ÷ 12 = 40<br> His friend says he used multiplication to check it. Which equation did he use?",
+    "options": [
+      { "text": "40 × 12 = 480" },
+      { "text": "480 × 12 = 40" },
+      { "text": "12 ÷ 40 = 480" },
+      { "text": "40 + 12 = 52" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 18,
+    "question": "Form the smallest 3-digit number using digits 0, 1, 9 exactly once, then divide it by 7. What is the remainder?",
+    "options": [
+      { "text": "2" },
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "1" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 19,
+    "question": "Priya had 28 candies and shared them among 6 friends. Later, she got 20 more candies and gave them to 4 friends. Did both groups get the same amount and leftovers?",
+    "options": [
+      { "text": "Same amount, same leftovers" },
+      { "text": "Same amount, different leftovers" },
+      { "text": "Different amount, same leftovers" },
+      { "text": "Different amount and different leftovers" }
+    ],
+    "answer": 3
+  }
+]
+
+        
+        
+      },
+      {
+        "heading": "DIVISIBILITY RULES",
+        "questions": [
+  {
+    "questionNo": 20,
+    "question": "Priya divided 728 by 8 and got a remainder of 1. Which of the following is correct?",
+    "options": [
+      { "text": "728 is divisible by 8" },
+      { "text": "728 is not divisible by 8" },
+      { "text": "The quotient is 0" },
+      { "text": "None of these" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 21,
+    "question": "A number ends in 0. Which divisibility rules does it follow?",
+    "options": [
+      { "text": "2 only" },
+      { "text": "2 and 5" },
+      { "text": "5 and 10" },
+      { "text": "2, 5, and 10" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 22,
+    "question": "A student says that 48 is divisible by both 2 and 3, so it must also be divisible by 6. Is the student correct?",
+    "options": [
+      { "text": "Yes, 48 is divisible by 6" },
+      { "text": "No, only divisible by 3" },
+      { "text": "No, divisible by 2 and 3 does not mean divisible by 6" },
+      { "text": "Can’t say" }
+    ],
+    "answer": 0
+  }
+]
+
+      },
+      {
+        "heading": "FACTORS, HCF",
+        "questions": [
+  {
+    "questionNo": 23,
+    "question": "Which of the following numbers has exactly two factors: 1 and itself?",
+    "options": [
+      { "text": "9" },
+      { "text": "4" },
+      { "text": "11" },
+      { "text": "15" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 24,
+    "question": "Arya says 35 and 36 are co-prime numbers. Is she right?",
+    "options": [
+      { "text": "No, both are even" },
+      { "text": "Yes, they have no common factor except 1" },
+      { "text": "No, both are prime" },
+      { "text": "Yes, because they’re odd" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 25,
+    "question": "Which of the following numbers is a common factor of 36 and 60 and divides 180 exactly.",
+    "options": [
+      { "text": "6" },
+      { "text": "12" },
+      { "text": "18" },
+      { "text": "Both A and B" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 26,
+    "question": "You have 48 red and 36 blue beads. You want to make identical bracelets with no beads left. What’s the maximum number of bracelets you can make and how many red and blue beads will each bracelet have?",
+    "options": [
+      { "text": "12 bracelets, each with 4 red and 3 blue" },
+      { "text": "18 bracelets, each with 3 red and 4 blue" },
+      { "text": "24 bracelets, each with 4 red and 4 blue" },
+      { "text": "6 bracelets, each with 3 red and 3 blue" }
+    ],
+    "answer": 0
+  }
+]
+
+        
+      },
+      {
+        "heading": "BODMAS AND WORD PROBLEMS ON ALL 4 OPERATIONS",
+        "questions": [
+  {
+    "questionNo": 27,
+    "question": "Follow the order of operations to solve:<br> {5 + [10 − (4 × 2)] + 6} × 2",
+    "options": [
+      { "text": "20" },
+      { "text": "24" },
+      { "text": "26" },
+      { "text": "34" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 28,
+    "question": "Solve:<br> {[10 − 4] + (6 × 2)} − 3",
+    "options": [
+      { "text": "14" },
+      { "text": "15" },
+      { "text": "16" },
+      { "text": "17" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 29,
+    "question": "A baker made 720 cookies and packed them into boxes of 12 cookies each. Later, 15 boxes were damaged and couldn’t be sold. How many cookies were sold successfully?",
+    "options": [
+      { "text": "600" },
+      { "text": "660" },
+      { "text": "720" },
+      { "text": "540" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 30,
+    "question": "Arjun bought 4 books at $120 each and 1 bag for $580. If he had $1,100, how much money was left?",
+    "options": [
+      { "text": "$40" },
+      { "text": "$100" },
+      { "text": "$80" },
+      { "text": "$90" }
+    ],
+    "answer": 0
+  }
+]
+
+
+        
+      },
+      {
+        "heading": "Olympiad Questions",
+        "questions": [
+  {
+    "questionNo": 1,
+    "question": "What is the product of odd × even × odd?",
+    "options": [
+      { "text": "Always odd" },
+      { "text": "Always even" },
+      { "text": "Could be either" },
+      { "text": "Always a multiple of 5" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "Form the greatest 4-digit number using digits 3, 0, 9, 8. Then, estimate the sum after rounding 2,198 to the nearest thousand.",
+    "options": [
+      { "text": "11,803" },
+      { "text": "11,830" },
+      { "text": "12,030" },
+      { "text": "11,083" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "A shopkeeper sold 12 pens at $15 each and 5 notebooks at $40 each. He gave a $50 discount. Which of the following will give us the final bill?",
+    "options": [
+      { "text": "(12×15 - 50) + (5×40 - 50)" },
+      { "text": "(12×15) + (5×40 − 50)" },
+      { "text": "(12×15 + 5×40) − 50" },
+      { "text": "None of these" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": "Which of the following satisfies this condition: An odd number added to an even composite number, results in a prime number?",
+    "options": [
+      { "text": "4 + 3 = 7" },
+      { "text": "6 + 3 = 9" },
+      { "text": "8 + 7 = 15" },
+      { "text": "10 + 15 = 25" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": "Sara and Zara each write a 4-digit number. What is the greatest possible difference between their numbers?",
+    "options": [
+      { "text": "8,999" },
+      { "text": "9,000" },
+      { "text": "9,999" },
+      { "text": "8,888" }
+    ],
+    "answer": 0
+  }
+]
+
+        
+      }
+    ]
+  }
+  
