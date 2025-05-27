@@ -387,68 +387,6 @@
 
 
         
-      },
-      {
-        "heading": "Olympiad Questions",
-        "questions": [
-  {
-    "questionNo": 1,
-    "question": "What is the product of odd × even × odd?",
-    "options": [
-      { "text": "Always odd" },
-      { "text": "Always even" },
-      { "text": "Could be either" },
-      { "text": "Always a multiple of 5" }
-    ],
-    "answer": 1
-  },
-  {
-    "questionNo": 2,
-    "question": "Form the greatest 4-digit number using digits 3, 0, 9, 8. Then, estimate the sum after rounding 2,198 to the nearest thousand.",
-    "options": [
-      { "text": "11,803" },
-      { "text": "11,830" },
-      { "text": "12,030" },
-      { "text": "11,083" }
-    ],
-    "answer": 1
-  },
-  {
-    "questionNo": 3,
-    "question": "A shopkeeper sold 12 pens at $15 each and 5 notebooks at $40 each. He gave a $50 discount. Which of the following will give us the final bill?",
-    "options": [
-      { "text": "(12×15 - 50) + (5×40 - 50)" },
-      { "text": "(12×15) + (5×40 − 50)" },
-      { "text": "(12×15 + 5×40) − 50" },
-      { "text": "None of these" }
-    ],
-    "answer": 2
-  },
-  {
-    "questionNo": 4,
-    "question": "Which of the following satisfies this condition: An odd number added to an even composite number, results in a prime number?",
-    "options": [
-      { "text": "4 + 3 = 7" },
-      { "text": "6 + 3 = 9" },
-      { "text": "8 + 7 = 15" },
-      { "text": "10 + 15 = 25" }
-    ],
-    "answer": 0
-  },
-  {
-    "questionNo": 5,
-    "question": "Sara and Zara each write a 4-digit number. What is the greatest possible difference between their numbers?",
-    "options": [
-      { "text": "8,999" },
-      { "text": "9,000" },
-      { "text": "9,999" },
-      { "text": "8,888" }
-    ],
-    "answer": 0
-  }
-]
-
-        
       }
     ]
   }
